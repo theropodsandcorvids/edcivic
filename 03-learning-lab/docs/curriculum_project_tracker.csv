@@ -1,0 +1,14 @@
+ID,Workstream,Deliverable,Owner role,Reviewer / approver role,Due relative to launch,Depends on,Sample status,Acceptance criterion,Record
+P01,Course-wide,Scope and learner brief,Associate,Associate Director,T−20 business days,None,Planned,"Audience, six objectives and delivery constraints approved",Source brief / decision log
+P02,Course-wide,Research and source register,Associate,Subject-matter reviewer,T−17,P01,Planned,Claims linked to sources; historical scope recorded,Source register
+S01,Session 1,Resident problem and outcome measures,Associate,Associate Director,T−14,P02,Draft,"Objective, case and output/outcome check aligned",Module 1 / review log
+S02,Session 2,Data governance foundations,Associate,Data subject-matter reviewer,T−13,S01,In review,"Ownership, inventory and privacy examples checked",Module 2 / reviewer comments
+S03,Session 3,Data quality and responsible sharing,Associate,Privacy subject-matter reviewer,T−12,S02,Blocked,Local data access question resolved before approval,Issue I01 / Module 3
+S04,Session 4,Results-driven contracting,Associate,Procurement subject-matter reviewer,T−11,"S01,P02",Planned,Teaching rubric distinguished from legal requirements,Module 4 / case sources
+S05,Session 5,Performance review conversations,Associate,Facilitator,T−10,S04,Planned,"Agenda yields an action, owner and review date",Module 5 / facilitator guide
+S06,Session 6,Action planning and improvement,Associate,Associate Director,T−9,"S03,S05",Planned,Action-plan rubric and follow-up plan approved,Module 6 / rubric
+P03,Course-wide,Accessibility and localization review,Associate,Accessibility and regional reviewers,T−7,"S01,S02,S03,S04,S05,S06",Planned,"Keyboard, headings, language expansion and glossary reviewed",QA checklist / terminology log
+P04,Course-wide,Lightweight learner test and revision,Associate,Associate Director,T−5,P03,Planned,Critical issues resolved or escalated; revisions approved,Test notes / decision log
+P05,Course-wide,Platform staging and tech rehearsal,Associate,Facilitator and producer,T−3,P04,Planned,"Links, captions, rooms and backup files tested",Rehearsal checklist
+P06,Course-wide,Approval and Forum release,Associate,Associate Director,T−2,P05,Planned,Final versions approved before post is published,Approval log / Forum post
+P07,Course-wide,Learning and feedback review,Associate,Associate Director,T+3,P06,Planned,Task evidence and feedback summarized separately,Evaluation summary / change queue
