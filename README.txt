@@ -1,7 +1,8 @@
-SIX CIVIC CURRICULUM PORTFOLIO WEBSITES · VERSION 1.2
+SIX CIVIC CURRICULUM PORTFOLIO WEBSITES · VERSION 1.3
 Extract the ZIP and open index.html to choose a design.
 Each numbered directory is a complete nine-page website with its own docs/ downloads.
-No build step or server runtime is required. Fonts and document preview images are embedded.
+No build step or server runtime is required.
+v1.3: the Editorial Studio (02) design adds explanatory SVG graphics (02-editorial-studio/graphics/). Fonts and document preview images are embedded.
 
 To host all six: upload this entire bundle, preserving the directories.
 To host one only: upload that design folder's contents; remove the top design switcher
